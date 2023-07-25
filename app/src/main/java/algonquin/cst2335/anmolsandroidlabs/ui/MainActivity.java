@@ -1,4 +1,4 @@
-package algonquin.cst2335.anmolsandroidlabs;
+package algonquin.cst2335.anmolsandroidlabs.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import algonquin.cst2335.anmolsandroidlabs.R;
+
 /** Main Activity first screen of the Application
  * @author Anmolpreet Kaur
  * @version 0.1
