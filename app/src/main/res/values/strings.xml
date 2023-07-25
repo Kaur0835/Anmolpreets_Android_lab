@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Anmols Android labs</string>
+    <string name="app_name">Anmol\'s Android labs</string>
+    <string name="hello_message">Hello world!</string>
+    <string name="button_message">Im a button</string>
 </resources>
